@@ -1,0 +1,58 @@
+body {
+    background-color: whitesmoke;
+}
+
+.architect {
+    width: 1600px;
+    height: 600px;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -70%);
+  }
+
+.text {
+    font-family: 'Segoe UI';
+    margin-left: 40%;
+    font-size: 30px;
+}
+
+table tr td img {
+    width: 380px;
+}
+
+.p {
+    color: grey;
+    font-family: Verdana;
+}
+
+.p2 {
+    background-color: rgb(178, 173, 173);
+}
+
+.p3 {
+    margin-left: 130px;
+    font-family: Verdana;
+}
+
+form input {
+    width: 1500px;
+    height: 30px;
+    margin-bottom: 20px;
+    font-family: Verdana;
+}
+
+button {
+    font-family: Verdana;
+    background-color: black;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.map { width: 1600px;}
